@@ -1,1 +1,1 @@
-Sitemap: https://asyncfor.com/sitemap.xml
+Sitemap: /Kivy/sitemap.xml
